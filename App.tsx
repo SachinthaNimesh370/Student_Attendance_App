@@ -82,6 +82,7 @@ function App(): React.JSX.Element {
           </View>
         </TouchableOpacity>
       )}
+      <Text>My App</Text>
     </View>
   );
 }
